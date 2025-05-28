@@ -1,4 +1,4 @@
-## Hi I'm Himesh 👋
+## Hi I'm Himesh Ganorkar 👋
 
 <!--
 **Ganorkarhimesh/Ganorkarhimesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
