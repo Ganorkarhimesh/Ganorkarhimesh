@@ -1,7 +1,6 @@
 ## Hi I'm Himesh Ganorkar 👋
 ## Pursuing Computer Science & Engineering from RCOEM Nagpur
 ## Fronted Developer 💻
-## Programming Languages Like HTML, CSS, Javascript, Node and React JS
 <!--
 **Ganorkarhimesh/Ganorkarhimesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
