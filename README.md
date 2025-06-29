@@ -1,4 +1,4 @@
-## Hi I'm Himesh Ganorkar 👋
+## Hi I'm Himesh 👋
 ## Pursuing Computer Science & Engineering from RCOEM Nagpur
 ## Fronted Developer 💻
 <!--
