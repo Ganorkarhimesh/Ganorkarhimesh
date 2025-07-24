@@ -1,5 +1,5 @@
 ## Hi I'm Himesh 👋
-## Pursuing Computer Science & Engineering from RCOEM Nagpur
+## Pursuing My Bachelor in Computer Science & Engineering from RCOEM Nagpur
 ## Fronted Developer 💻
 <!--
 **Ganorkarhimesh/Ganorkarhimesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
